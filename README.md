@@ -6,13 +6,10 @@ The goal is to understand how real software like git, npm, and docker works inte
 
 Features
 
- # Create custom terminal commands
-
- # rgument handling using argparse
-
- # Multi-command support (like real CLI programs)
-
- # Works directly from Windows Command Prompt
+-Create custom terminal commands
+-Argument handling using argparse
+-Multi-command support (like real CLI programs)
+-Works directly from Windows Command Prompt
 
 Tools Included
 1. Calculator Command
